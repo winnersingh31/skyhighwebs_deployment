@@ -18,7 +18,4 @@ This bundle includes two main folders:
 1. Run `npm run dev` to start the development server
 1. Open `http://localhost:3000` in your browser to get started
 
-## Additional Resources
-
-- [Frontend Tribe Youtube Channel](https://www.youtube.com/@frontend-tribe)
 
